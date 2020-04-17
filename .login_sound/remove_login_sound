@@ -10,5 +10,6 @@ rm ~/.icons/login_sound.png || true
 rm ~/.config/autostart/login_sound.desktop || true
 rm ~/.local/share/applications/login_sound.desktop || true
 rm -rf ~/.login_sound || true
+rm ~/bin/remove_login_sound || true
 
 echo -e "${GREEN}WelcomeBackCommander removed successfully!${NC}"

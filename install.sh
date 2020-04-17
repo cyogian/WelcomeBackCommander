@@ -11,6 +11,7 @@ cp -avr ${BASEDIR}/.login_sound ~
 mkdir -p ~/bin
 mkdir -p ~/.icons
 cp ~/.login_sound/login_sound ~/bin/login_sound
+cp ~/.login_sound/remove_login_sound ~/bin/remove_login_sound
 cp ~/.login_sound/login_sound.png ~/.icons/login_sound.png
 cp ~/.login_sound/login_sound.desktop ~/.config/autostart/login_sound.desktop
 cp ~/.login_sound/login_sound.desktop ~/.local/share/applications/login_sound.desktop

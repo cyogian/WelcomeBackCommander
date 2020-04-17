@@ -18,7 +18,7 @@ Logout & Login to hear a lady welcome you.
 ---
 
 This scripts only works for GNOME Desktops. 
-You can run remove.sh script to remove all the installed files.
+You can also remove all the installed files by running ```remove_login_sound``` command.
 
 ---
 
