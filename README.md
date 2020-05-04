@@ -19,7 +19,7 @@ Logout & Login to hear a lady welcome you.
 
 This scripts only works for GNOME Desktops.  
 You can also remove all the installed files by running ```remove_login_sound``` command.  
-You can add your own sound by replacing "Welcom_Back.wav" in the ".login_sound" folder with your sound file and renaming it "Welcom_Back.wav" before installing.
+You can add your own sound by replacing "WELCOM_BACK.wav" in the ".login_sound" folder with your sound file and renaming it "WELCOM_BACK.WAV" before installing.
  
 ---
 
