@@ -1,2 +1,2 @@
 #!/bin/bash
-canberra-gtk-play --id="desktop-login" --description="GNOME Login" -f ~/.login_sound/WELCOME_BACK.wav
+canberra-gtk-play --description="GNOME Login" -f ~/.login_sound/WELCOME_BACK.wav
